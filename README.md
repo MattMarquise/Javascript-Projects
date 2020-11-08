@@ -1,2 +1,2 @@
 # Javascript-Projects
-My JS project list
+This will be a list containing every JS project I build.
